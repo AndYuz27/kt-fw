@@ -63,7 +63,10 @@ export default function Uslugi() {
 
     return(
         <div className="jjjggg">
-            {cards()}
+            <h2>Наши услуги</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem consequatur unde laboriosam quae ullam doloribus inventore!</p>
+            <div className="ljg">{cards()}</div>
+            
         </div>
     )
 

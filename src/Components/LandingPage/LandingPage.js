@@ -2,6 +2,7 @@ import ReactStars from "react-rating-stars-component";
 import React from "react";
 import img1 from "../../assets/Chel_s_PC.png"
 import Uslugi from "./Uslugi";
+import Portpholio from "./Portpholio";
 
 
 export default function LandingPage(){
@@ -23,6 +24,7 @@ export default function LandingPage(){
                 <div className="img_container" style={{backgroundImage:`url(${img1})`}}></div>
             </div>
             <Uslugi/>
+            <Portpholio/>
         </div>
     )
 }
