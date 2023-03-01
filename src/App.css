@@ -27,12 +27,31 @@
 .App-link {
   color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.hdr_main{
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 142px 0 142px;
+}
+.lnk1{
+  text-decoration: none;
+  margin: 15px;
+  font-weight: 500;
+  color: #05b5cc;
+  transition: 0.3s;
+}
+.lnk1:hover{
+  color: black;
+  font-weight: 600;
+}
+.lnk2{
+  text-decoration: none;
+  padding: 6px 14px 8px 14px;
+  border-radius: 16px;
+  color: #fff;
+  font-weight: 500;
+  margin-left: 32px;
+  background-color: #0084ff;
 }
