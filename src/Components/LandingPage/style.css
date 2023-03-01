@@ -1,0 +1,12 @@
+.fffffffff{
+ width: 320px;
+ margin: 25px;
+ border: 1px solid;
+ padding: 48px 25px 24px 25px;   
+}
+.jjjggg{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
