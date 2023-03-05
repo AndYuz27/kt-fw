@@ -1,6 +1,5 @@
-import ReactStars from "react-rating-stars-component";
 import React from "react";
-import img1 from "../../assets/Chel_s_PC.png"
+import img1 from "../../assets/Analyse.png"
 import Uslugi from "./Uslugi";
 import Portpholio from "./Portpholio";
 

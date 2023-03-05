@@ -2,8 +2,10 @@
 .ttt{
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+  height: 700px;
+
 }
 .title{
   display: flex;
@@ -16,6 +18,10 @@
   width: 600px;
 }
 .img_container{
+  top: 14%;
+  right: 0%;
+  position: absolute;
+  z-index: -1;
   width: 50%;
   height: 640px;
   background-position: center;
