@@ -17,28 +17,28 @@ export default function Uslugi() {
             "link": "https://www.youtube.com/shorts/ZSJgqAvqtOQ"
         },
         {
-            id:"2",
+            id:"3",
             "img": "https://win98icons.alexmeub.com/icons/png/internet_connection_wiz-4.png",
             "title_uu": "подключение к интернету при помощи мобильной связи",
             "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem consequatur unde laboriosam quae ullam doloribus inventore!",
             "link": "https://www.youtube.com/shorts/ZSJgqAvqtOQ"
         },
         {
-            id:"2",
+            id:"4",
             "img": "https://win98icons.alexmeub.com/icons/png/internet_connection_wiz-4.png",
             "title_uu": "подключение к интернету при помощи мобильной связи",
             "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem consequatur unde laboriosam quae ullam doloribus inventore!",
             "link": "https://www.youtube.com/shorts/ZSJgqAvqtOQ"
         },
         {
-            id:"2",
+            id:"5",
             "img": "https://win98icons.alexmeub.com/icons/png/internet_connection_wiz-4.png",
             "title_uu": "подключение к интернету при помощи мобильной связи",
             "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem consequatur unde laboriosam quae ullam doloribus inventore!",
             "link": "https://www.youtube.com/shorts/ZSJgqAvqtOQ"
         },
         {
-            id:"2",
+            id:"6",
             "img": "https://win98icons.alexmeub.com/icons/png/internet_connection_wiz-4.png",
             "title_uu": "подключение к интернету при помощи мобильной связи",
             "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem consequatur unde laboriosam quae ullam doloribus inventore!",
