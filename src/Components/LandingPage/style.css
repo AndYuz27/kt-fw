@@ -10,7 +10,7 @@
  box-shadow: 6px 6px 16px #000;
 }
 .jjjggg{
-    background-color: #2196F3;
+    background-color: #60E1CB;
     display: flex;
 
     flex-direction: column;
@@ -117,4 +117,25 @@
   }
   .ldd{
     margin-bottom: 128px;
+  }
+  .interested{
+    font-size: 30px;
+    background-color: #60E1CB;
+    height: 512px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .interested-btn-black{
+    background-color: #3f3f3f;
+    cursor: pointer;
+    padding: 10px;
+    color: azure;
+    font-weight: 600;
+    width: 500px;
+    height: 70px;
+    font-size: 24pt;
+    border: none;
+    border-radius: 50px;
   }

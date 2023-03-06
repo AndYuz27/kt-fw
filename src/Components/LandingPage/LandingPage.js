@@ -2,6 +2,7 @@ import React from "react";
 import img1 from "../../assets/Analyse.png"
 import Uslugi from "./Uslugi";
 import Portpholio from "./Portpholio";
+import Interes from "./Interes";
 
 
 export default function LandingPage(){
@@ -24,6 +25,7 @@ export default function LandingPage(){
             </div>
             <Uslugi/>
             <Portpholio/>
+            <Interes/>
         </div>
     )
 }
